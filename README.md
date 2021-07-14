@@ -9,7 +9,7 @@ O objetivo do projeto é disponibilizar catálogo de aulas por módulo
   
 
 ### Clonando o projeto:
-    - Clone este reposítório via terminal usando git clone https://github.com/laura-caroline/verzel.git
+    - Clone este reposítório via terminal usando git clone https://github.com/laura-caroline/desafio_verzel.git
     - Acesse a pasta do projeto.
   
 ### Iniciando o React native:
